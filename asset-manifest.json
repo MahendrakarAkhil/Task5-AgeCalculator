@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task5-AgeCalculator/static/css/main.b46b621f.css",
+    "main.js": "/Task5-AgeCalculator/static/js/main.379213ed.js",
+    "index.html": "/Task5-AgeCalculator/index.html",
+    "main.b46b621f.css.map": "/Task5-AgeCalculator/static/css/main.b46b621f.css.map",
+    "main.379213ed.js.map": "/Task5-AgeCalculator/static/js/main.379213ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b46b621f.css",
+    "static/js/main.379213ed.js"
+  ]
+}
